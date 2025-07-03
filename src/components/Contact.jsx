@@ -21,7 +21,7 @@ const Contact = () => {
               </div>
               <div className={styles.details}>
                 <span>Mobile No</span>
-                <span>+91 8009324618 </span>
+                <span>+91 8004701976 </span>
               </div>
             </div>
 
@@ -31,7 +31,7 @@ const Contact = () => {
               </div>
               <div className={styles.details}>
                 <span>Email</span>
-                <span>smmanmohan2000@gmail.com</span>
+                <span>pandey81730@gmail.com</span>
               </div>
             </div>
 
@@ -41,7 +41,7 @@ const Contact = () => {
               </div>
               <div className={styles.details}>
                 <span>Location</span>
-                <span>Lucknow Uttar Pradesh 226501</span>
+                <span>Prayagraj Uttar Pradesh 211008</span>
               </div>
             </div>
           </div>
