@@ -106,5 +106,10 @@ We welcome contributions!
 4. Push to branch: git push origin feature-name
 5.Create a Pull Request
 
+
+### Project Deployment Link:
+  https://aipowerlearningplatform.netlify.app/
+
+
 📝 License
 This project is licensed under the MIT License. See the LICENSE file for details.
